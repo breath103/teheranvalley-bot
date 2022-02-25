@@ -1,4 +1,4 @@
-service: corgi-template
+service: teheranvalley-bot
 
 provider:
   name: aws

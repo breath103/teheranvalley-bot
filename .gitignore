@@ -46,3 +46,5 @@ jspm_packages
 # IDE Configurations
 .vscode
 .idea
+src/services/telegram_key.json
+src/services/youtube_key.json
